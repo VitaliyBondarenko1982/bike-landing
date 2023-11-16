@@ -2,6 +2,7 @@
     1. 
     1. 
    
-    - [DEMO LINK](https://ydashko.github.io/bike-landing/)
+    - [DEMO LINK](https://ydashko.github.io/museum-landing/)
+
 
 
