@@ -1,8 +1,9 @@
 # Base layout template with Gulp, SCSS and Stylelint
-    1. 
-    1. 
+    11. 
+1. 
    
-    - [DEMO LINK](https://ydashko.github.io/museum-landing/)
+    - [DEMO LINK](https://ydashko.github.io/bike-landing/)
+
 
 
 
