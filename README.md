@@ -13,7 +13,7 @@ Sass (SCSS)
 JavaScript
 Preview Link
 
-    - [DEMO LINK](https://ydashko.github.io/bike-landing/)
+    [DEMO LINK](https://ydashko.github.io/bike-landing/)
 
 
 
