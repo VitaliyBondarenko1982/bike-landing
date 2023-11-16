@@ -12,7 +12,6 @@ CSS
 Sass (SCSS)
 JavaScript
 Preview Link
-
     [DEMO LINK](https://ydashko.github.io/bike-landing/)
 
 
